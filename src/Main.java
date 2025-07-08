@@ -38,5 +38,16 @@ Car car3 = new UtilityVehicle("622", "Who", "MarisOnTheRoad", 65, false);
         System.out.println(car3.getinfo());
         System.out.println("_________________________________________________-");
 
+Car car4 = new Sedan("32", "PullRequest", "PorfisFunciona", 99999);
+        System.out.println(car4.getinfo());
+        System.out.println("_________________________________________________-");
+
+
+
+
     }
+
+
+
+
 }
